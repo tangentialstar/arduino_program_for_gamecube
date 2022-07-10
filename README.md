@@ -1,6 +1,10 @@
 # arduino program for gamecube
 Arduino microを使ってGamecubeを操作するためのソースコードです。
 
+__（ スティックの分解能を**下げる**代わりに **「500」コマンドまで記憶できるように拡張**したVer2は[tangentialstar/arduino_program_for_gamecube_ver2](https://github.com/tangentialstar/arduino_program_for_gamecube_ver2 ) からどうぞ。 ）__
+
+
+
 ## つくったきっかけ
 ゲームキューブをArduinoで操作するためのプログラムが公開されており、感銘を受けて、私も早速試してみました。
 ただ、ソースコード単品（人様が公開しているGUIに依存しない形）で、Arduinoでゲームキューブの操作を自動化してみたいと思ったので作ってみました。
